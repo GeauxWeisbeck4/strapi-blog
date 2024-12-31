@@ -4,7 +4,7 @@ Creating a Next.js and Strapi 5 Blog to serve as a starting point for new blog p
 
 ## To Do
 
-- [ ] Add to Asan
+- [ ] Add to Asana
 - [ ] Setup Strapi Backend
 - [ ] Setup Next.js
 - [ ] Finish tutorial
